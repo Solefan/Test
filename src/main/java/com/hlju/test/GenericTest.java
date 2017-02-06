@@ -33,6 +33,7 @@ public class GenericTest {
     public static void getData3(Box<? super Integer> data) {
         System.out.println("data :" + data.getData());
         System.out.println("Hello My World");
+        System.out.println("Hello World!");
     }
 
 }
