@@ -13,6 +13,8 @@ public class Test {
         method(a, b);
         System.out.println("a=" + a);
         System.out.println("b=" + b);
+        Thread tttt = new Thread();
+        tttt.start();
     }
 
     public static void method(final int a, final int b) {
