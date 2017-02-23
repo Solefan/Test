@@ -22,7 +22,7 @@ public class Test {
         }
 
         int r = 2;
-        int a = array[--r];
+        int a = array[r--];
         System.out.println(a);
     }
 
