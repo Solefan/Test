@@ -26,7 +26,7 @@ public class AppTest extends TestCase
     }
 
     /**
-     * Rigourous Test :-)
+     * Rigourous TestMo :-)
      */
     public void testApp()
     {
