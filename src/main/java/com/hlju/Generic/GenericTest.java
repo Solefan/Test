@@ -1,7 +1,5 @@
 package com.hlju.generic;
 
-import com.hlju.test.Box;
-
 /**
  * Created by Sole on 17/2/4.
  */
